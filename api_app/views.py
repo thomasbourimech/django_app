@@ -64,3 +64,7 @@ class ShoppingCart(View):
         }
 
         return JsonResponse(data, status=201)
+
+
+
+
